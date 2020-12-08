@@ -244,16 +244,16 @@
   
   email: testUserCustomer
   password: 'HU(#U@Ndfs3ds'
-  key: testUser
+  key: testUserCustomer
   role: 'customer'
   securityQuestion:
-    id: 15
-    answer: 'aj90249gu0239gj9uh'
+    id: 1
+    answer: 'ihgi43ughi3u54h03982'
   feedback:
     comment: 'sprzedam opla'
     rating: 5
   address:
-    - fullName: 'Bartek Chaber'
+    - fullName: 'Janusz Testowy'
       mobileNum: 1234567890
       zipCode: '0000'
       streetAddress: 'Koszykowa 75'
@@ -271,13 +271,13 @@
   key: testUserAdmin
   role: 'customer'
   securityQuestion:
-    id: 16
+    id: 2
     answer: 'aj90249gu0239gj9uh'
   feedback:
     comment: 'sprzedam audi'
     rating: 5
   address:
-    - fullName: 'Bartek Chaber'
+    - fullName: 'Janusz Admin'
       mobileNum: 1234567890
       zipCode: '0000'
       streetAddress: 'Koszykowa 76'
