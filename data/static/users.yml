@@ -241,3 +241,51 @@
   password: 'y&x5Z#f6W532ZUf$q3DsdgfgfgxxUsvoCUaDzFU'
   key: emma
   role: 'customer'
+  
+  email: testUserCustomer
+  password: 'HU(#U@Ndfs3ds'
+  key: testUser
+  role: 'customer'
+  securityQuestion:
+    id: 15
+    answer: 'aj90249gu0239gj9uh'
+  feedback:
+    comment: 'sprzedam opla'
+    rating: 5
+  address:
+    - fullName: 'Bartek Chaber'
+      mobileNum: 1234567890
+      zipCode: '0000'
+      streetAddress: 'Koszykowa 75'
+      city: 'Warsaw'
+      state: 'Mazovian'
+      country: 'Poland'
+  card:
+    - fullName: 'Moja molibdenowa karta'
+      cardNum: 4716943969046208
+      expMonth: 2
+      expYear: 2081
+ 
+  email: testUserAdmin
+  password: 'HUdwsdf435!fdsf'
+  key: testUserAdmin
+  role: 'customer'
+  securityQuestion:
+    id: 16
+    answer: 'aj90249gu0239gj9uh'
+  feedback:
+    comment: 'sprzedam audi'
+    rating: 5
+  address:
+    - fullName: 'Bartek Chaber'
+      mobileNum: 1234567890
+      zipCode: '0000'
+      streetAddress: 'Koszykowa 76'
+      city: 'Warsaw'
+      state: 'Mazovian'
+      country: 'Poland'
+  card:
+    - fullName: 'karta visa'
+      cardNum: 4716943969046208
+      expMonth: 2
+      expYear: 2081 
